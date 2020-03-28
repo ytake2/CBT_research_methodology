@@ -1,1 +1,1 @@
-# CBT_-research_methodology
+# CBT_research_methodology
