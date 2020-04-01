@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/home/</loc>
+    <loc>https://example.com/home/</loc>
   </url>
   
   <url>
-    <loc>/%E4%BC%81%E7%94%BB%E8%B6%A3%E6%97%A8/</loc>
+    <loc>https://example.com/%E4%BC%81%E7%94%BB%E8%B6%A3%E6%97%A8/</loc>
   </url>
   
   <url>
-    <loc>/%E7%89%B9%E9%9B%86%E7%AC%AC%EF%BC%91%E5%8F%B7/</loc>
+    <loc>https://example.com/%E7%89%B9%E9%9B%86%E7%AC%AC%EF%BC%91%E5%8F%B7/</loc>
   </url>
   
   <url>
-    <loc>/%E7%89%B9%E9%9B%86%E7%AC%AC%EF%BC%92%E5%8F%B7/</loc>
+    <loc>https://example.com/%E7%89%B9%E9%9B%86%E7%AC%AC%EF%BC%92%E5%8F%B7/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://example.com/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
   
 </urlset>

@@ -51,10 +51,6 @@ publishDir = "docs"
   url = "/特集第２号/"
   weight = 4
 
-  [[menu.nav]]
-  name = "特集第２号"
-  url = "/特集第２号/"
-  weight = 4
 
 [markup]
   defaultMarkdownHandler = "goldmark"
