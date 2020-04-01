@@ -34,21 +34,21 @@ publishDir = "docs"
 [menu]
   [[menu.nav]]
   name = "HOME"
-  url = "/HOME/"
+  url = "/CBT_research_methodology/HOME/"
   weight = 1
   
   [[menu.nav]]
   name = "企画趣旨"
-  url = "/企画趣旨/"
+  url = "/CBT_research_methodology/企画趣旨/"
   weight = 2
   
   [[menu.nav]]
   name = "特集第１号"
-  url = "/特集第１号/"
+  url = "/CBT_research_methodology/特集第１号/"
   weight = 3
   [[menu.nav]]
   name = "特集第２号"
-  url = "/特集第２号/"
+  url = "/CBT_research_methodology/特集第２号/"
   weight = 4
 
 
